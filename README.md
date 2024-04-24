@@ -7,7 +7,7 @@ Developed a user-friendly Python app for code review, allowing users to submit c
 
 # Key Features:
 
-Clean Streamlit UI for easy code submission.
-Utilized GeminiAI API for accurate code analysis.
-Identified bugs and provided suggestions for fixes.
-Offered fixed code snippets for improved efficiency.
+* Clean Streamlit UI for easy code submission.
+* Utilized GeminiAI API for accurate code analysis.
+* Identified bugs and provided suggestions for fixes.
+* Offered fixed code snippets for improved efficiency.
